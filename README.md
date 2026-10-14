@@ -38,6 +38,18 @@ Android APK signing certificate SHA-256:
 [Privacy policy](https://bara-almustafa.github.io/noor-privacy/) — location is used only to calculate
 prayer times and the Qibla direction.
 
+## Sponsor the project
+
+Noor Quran is free, with no ads and no tracking. If it helps you, you can sponsor its development:
+
+<p align="center">
+  <a href="https://buymeacoffee.com/0xcybersoldier" target="_blank">
+    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy Me a Coffee">
+  </a>
+</p>
+
+☕ **[buymeacoffee.com/0xcybersoldier](https://buymeacoffee.com/0xcybersoldier)**
+
 ## Credits
 
 Content from [mp3quran.net](https://www.mp3quran.net), [Al Quran Cloud](https://alquran.cloud),
